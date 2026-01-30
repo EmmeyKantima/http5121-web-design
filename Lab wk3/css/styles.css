@@ -1,0 +1,102 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+
+}
+main {
+    padding: 2em;
+    background-color: hsl(195, 7%, 89%);
+    border-radius: 25px;
+    margin: 10px;
+    
+}
+
+#topHeading {
+    font-size: 1em;
+    color: #cec9c9;
+    padding: 1em;
+    margin: 0;
+    border-bottom: 3px solid #cec9c9;
+    background-color: #3d8f8f;
+    letter-spacing:1px;
+
+}
+
+code {
+    display: block;
+    padding:1em ;
+    background-color: aliceblue;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    
+}
+
+.boxCode {
+    margin-top: 5px;
+}
+
+.code{
+    font-weight: bold;
+    color: dimgrey;
+}
+
+
+#special{
+    font-style: italic;
+}
+a{
+    color: #3c1c82;
+    text-decoration: none;
+}
+a:hover{
+    color: darkolivegreen;
+    text-decoration: underline;
+}
+a:active{
+    color: rgb(221, 121, 6);
+    text-decoration: underline;
+}
+
+#footer {
+    background-color: #3d8f8f;
+    color: rgb(206, 201, 201);
+    padding: 0.6em;
+    font-size: 1em;
+    border-top: 3px solid #cec9c9;
+    
+}    
+
+input{
+    margin-left: 15px;
+    padding: 1em;
+    border: 1px solid #3c1c82;
+    border-radius: 5px;
+}
+button{
+    padding: 0.6em; 
+    margin-left: 10px;
+    border: 1px solid #3d8f8f;
+    border-radius: 5px;
+    color: rgb(77, 118, 154);
+    cursor: pointer;
+    font-size: 1em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#textFooter {
+    margin-top: 0px;
+}
+
+#headAutor {
+    font-weight: normal;
+    color: #3d8f8f;
+}
+
+
+#headComment {
+    color: #3d8f8f;
+    font-weight: normal;
+}
